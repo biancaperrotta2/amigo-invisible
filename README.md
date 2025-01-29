@@ -35,7 +35,7 @@ Este proyecto es un sencillo y divertido juego del Amigo Secreto, desarrollado c
 - JAVASCRIPT
 
 ## Autores: 
-***poner link de mi github****
+https://github.com/biancaperrotta2
 
 
 

@@ -27,7 +27,7 @@ Este proyecto es un sencillo y divertido juego del Amigo Secreto, desarrollado c
 
 ## 📁 Acceso al proyecto
 - Puedes acceder al juego mediante el siguiente link: *******poner link********
-- O puedes clonar este repositorio en tu máquina local: ******poner repo*****
+- O puedes clonar este repositorio en tu máquina local: https://github.com/biancaperrotta2/amigo-invisible.git
 
 ## Tecnologías Utilizadas 🛠️
 - HTML
